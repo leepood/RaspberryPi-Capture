@@ -19,7 +19,7 @@
 
 #include "../header/http_util.h"
 
-#define UPLOAD_URL "http://www.leepood.com"
+#define UPLOAD_URL "http://up.qiniu.com"
 #define FIELD_GPS_LON "lon"
 #define FIELD_GPS_LAT "lat"
 
